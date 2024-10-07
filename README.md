@@ -19,3 +19,9 @@ Para el dataset2:
  indicando que, aunque algunos títulos son preferidos, no hay una película que se destaque drásticamente. 
  Esto puede interpretarse como que la calidad percibida entre estas cinco películas es bastante homogénea, 
  al menos desde el punto de vista del promedio de votos.
+
+ links de los datasets :
+ Dataset 1:https://www.kaggle.com/datasets/willianoliveiragibin/marvel-vs-dc
+ DataSet 2:https://www.kaggle.com/datasets/farzammanafzadeh/ballon-dor-2024-nominees-league-stats
+ Dataset 3:https://www.kaggle.com/datasets/ayushi10kumari/top-rated-movie-dataset
+ 
