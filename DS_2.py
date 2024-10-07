@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
-# Cargar el conjunto de datos
+#se lee el csv
 balon_oro = pd.read_csv('DataSet_2.csv')
 
 # Ordenar los datos orden descendente y seleccionar los 10 mejores jugadores
