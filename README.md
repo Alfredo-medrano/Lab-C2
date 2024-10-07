@@ -1,4 +1,6 @@
-Alumnos: alfredo ezequiel medrano martinez
+Alumnos: 
+Alfredo Ezequiel Medrano Martinez - SMSS025223 Grupo - A3
+Karla Lisseth Lopez Herrera - SMSS097723 - Grupo - A2
 
 Observaciones de cada ejercicio
 Para el dataset1:
