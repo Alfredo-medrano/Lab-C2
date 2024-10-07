@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Cargar el conjunto de datos
+# lee eñ csv
 movies = pd.read_csv('DataSet_3.csv')
 
 # Agrupar por título y obtener el promedio de los votos
