@@ -21,7 +21,9 @@ Para el dataset2:
  al menos desde el punto de vista del promedio de votos.
 
  links de los datasets :
- Dataset 1:https://www.kaggle.com/datasets/willianoliveiragibin/marvel-vs-dc
- DataSet 2:https://www.kaggle.com/datasets/farzammanafzadeh/ballon-dor-2024-nominees-league-stats
- Dataset 3:https://www.kaggle.com/datasets/ayushi10kumari/top-rated-movie-dataset
+ Dataset 1: https://www.kaggle.com/datasets/willianoliveiragibin/marvel-vs-dc
+ 
+ DataSet 2: https://www.kaggle.com/datasets/farzammanafzadeh/ballon-dor-2024-nominees-league-stats
+ 
+ Dataset 3: https://www.kaggle.com/datasets/ayushi10kumari/top-rated-movie-dataset
  
