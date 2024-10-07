@@ -1,8 +1,11 @@
 Alumnos: 
+
 Alfredo Ezequiel Medrano Martinez - SMSS025223 Grupo - A3
+
 Karla Lisseth Lopez Herrera - SMSS097723 - Grupo - A2
 
 Observaciones de cada ejercicio
+
 Para el dataset1:
 Las películas de DC no parecen destacarse en este gráfico si comparamos con los títulos de Marvel, 
 lo que podría sugerir una brecha de calidad percibida por los usuarios, al menos en el subconjunto seleccionado.
@@ -21,6 +24,7 @@ Para el dataset2:
  al menos desde el punto de vista del promedio de votos.
 
  links de los datasets :
+ 
  Dataset 1: https://www.kaggle.com/datasets/willianoliveiragibin/marvel-vs-dc
  
  DataSet 2: https://www.kaggle.com/datasets/farzammanafzadeh/ballon-dor-2024-nominees-league-stats
